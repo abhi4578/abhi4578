@@ -31,13 +31,31 @@ Hi, I am Abhilash Venkatesh, currently pursuing my Master’s in Computer Scienc
 > Infrastructure and deployment for the **IUDX** platform, enabling seamless and secure data exchange.
 
 ---
+## 💡 Open Source Contributions
 
+I am an active open source contributor!  
+Here are a few recent highlights from projects like OWASP and developers-conferences-agenda:
+
+- [Add BSides Bangalore, IndiaFoss, OWASP Appsec, PyCon, OpenSSF, Open Source Summit, Compiler](https://github.com/scraly/developers-conferences-agenda/pull/1487) ([developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda))
+- [Optimize frontend docker image](https://github.com/OWASP/Nest/pull/1323) ([OWASP/Nest](https://github.com/OWASP/Nest))
+
+> For OWASP, I contributed improvements to Docker build efficiency, security, and deployment workflows.
+> For developers-conferences-agenda, I added several conferences and events important to the FOSS and security community.
+
+▶️ [See all my open source contributions](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aabhi4578)
+
+---
 ## 🌐 Find Me Online
 
 - 🌍 [Website](https://abhi4578.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhi5782-/)
 - 🐘 [Mastodon](https://noc.social/@urnbhai)
 - 🐦 [X (Twitter)](https://x.com/Abhi00434)
+
+Checkout My playlists
+- [FOSS history and documentary playlist](https://tinyurl.com/free-and-open-source )
+- [Privacy](https://tinyurl.com/privacy155)
+- [CS Pop Culture](https://tinyurl.com/cs-pop-culture)
 
 ---
 
