@@ -51,11 +51,11 @@ Here are a few recent highlights from projects like OWASP and developers-confere
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhi5782-/)
 - 🐘 [Mastodon](https://noc.social/@urnbhai)
 - 🐦 [X (Twitter)](https://x.com/Abhi00434)
-
-Checkout My playlists
-- [FOSS history and documentary playlist](https://tinyurl.com/free-and-open-source )
-- [Privacy](https://tinyurl.com/privacy155)
-- [CS Pop Culture](https://tinyurl.com/cs-pop-culture)
+- 📺 [YouTube](https://www.youtube.com/channel/UC5F1TekwAr1xuaj--S2k64Q)
+  - Checkout my playlists
+    - [FOSS history, talks and documentaries](https://tinyurl.com/free-and-open-source )
+    - [Privacy](https://tinyurl.com/privacy155)
+    - [CS Pop Culture](https://tinyurl.com/cs-pop-culture)
 
 ---
 
