@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I am Abhilash Venkatesh, currently pursuing my Master’s in Computer Science (OMSCS). Previously, I worked as a DevOps Engineer at CDPG (formerly IUDX) over 4.5+ years. I completed my undergraduate studies in Information Technology at NITK, Surathkal.
+Hi, I am Abhilash Venkatesh, currently pursuing my Master’s in Computer Science ([OMSCS](https://omscs.gatech.edu/)). Previously, I worked as a DevOps Engineer at CDPG (formerly IUDX) over 4.5+ years. I completed my undergraduate studies in Information Technology at NITK, Surathkal.
 
 - 💻 I thrive working with Linux, open-source software, systems, security, and privacy!
 - 🚀 Always curious about new trends in cloud, automation, and infrastructure.
