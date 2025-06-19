@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abhilash Venkatesh!
 
-🎓 **OMSCS Graduate | Ex-DevOps Engineer | FOSS Enthusiast**
+🎓 ** Doing OMSCS | Ex-DevOps Engineer | FOSS Enthusiast**
 
 ---
 
